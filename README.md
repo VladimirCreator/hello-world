@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Vladimir here, I like C++ and Apple technologies!
